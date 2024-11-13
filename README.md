@@ -30,3 +30,5 @@ Struktur Kode
         inputSuhuActionPerformed: Fungsi untuk menangani input suhu dan memvalidasi agar hanya angka yang bisa dimasukkan.
         jButton2.addActionListener: Menambahkan aksi untuk tombol "Hapus" yang akan mengosongkan input dan hasil.
         exit.addActionListener: Menambahkan aksi untuk tombol "Keluar" untuk menutup aplikasi.
+
+![image](https://github.com/user-attachments/assets/f61dd502-a324-4c34-8a72-9762a44e0564)
