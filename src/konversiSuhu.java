@@ -216,7 +216,7 @@ public class konversiSuhu extends javax.swing.JFrame {
      exit.addActionListener(new ActionListener() {
     @Override
     public void actionPerformed(ActionEvent evt) {
-        System.exit(0); // Menutup aplikasi
+        System.exit(0);
     }
 });
 
